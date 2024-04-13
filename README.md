@@ -5,7 +5,9 @@ Diablo 3 Auction House Prototype is a university group project created by [DJAlt
 ## Prototype
 
 <p align="center">
-	<img src="./diagrams/prototype.png?raw=true" width="*"/>
+	<a href="https://redskittlefox.github.io/d3-auction-house-prototype/">
+		<img src="./diagrams/prototype.png?raw=true" width="*"/>
+ 	</a>
 </p>
 
 You can check out the prototype made in Axure [here](https://djaltair.github.io/d3-auction-house-prototype/).
@@ -15,9 +17,7 @@ You can check out the prototype made in Axure [here](https://djaltair.github.io/
 ### Domain Model
 
 <p align="center">
-	<a href="https://redskittlefox.github.io/d3-auction-house-prototype/">
-		<img src="./diagrams/domain_model/Domain model.jpg?raw=true" width="*"/>
-	</a>
+	<img src="./diagrams/domain_model/Domain model.jpg?raw=true" width="*"/>
 </p>
 
 ### Use Cases
